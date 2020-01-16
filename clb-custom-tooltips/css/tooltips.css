@@ -1,9 +1,0 @@
-.clb-custom-tooltip {
-     text-decoration: underline;
-     text-decoration-style: dotted;
-     background: #F7F0A1;
-}
-
-.clb-custom-tooltip:hover {
-     cursor: help;
-}
